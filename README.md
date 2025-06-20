@@ -9,6 +9,7 @@
 🧠 Interesses: Back-end, Front-end desenvolvimento web, APIs REST, boas práticas de código e clean code.
 
 📌 Em breve vou publicar meus primeiros projetos Java por aqui. Fique à vontade para acompanhar minha evolução
+ 
  📫 How to reach me e-mail cesarleitor2022@gmail.com ...
 
 <!---
