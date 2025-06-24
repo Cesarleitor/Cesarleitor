@@ -1,6 +1,6 @@
 👋 Olá! Sou um estudante de programação apaixonado por tecnologia e desenvolvimento de software.
 
-🚀 Atualmente estou focado nos estudos da linguagem *Java, aprendendo sobre lógica de programação, orientação a objetos, estruturas de dados e construção de APIs com **Spring Boot*.
+🚀 Atualmente estou focado nos estudos da linguagem Java, aprendendo sobre lógica de programação, orientação a objetos, estruturas de dados e construção de APIs com **Spring Boot**.
 
 💻 Também pratico com ferramentas como *Git, **GitHub, **Eclipse/IntelliJ* *VsCode* e banco de dados relacionais (MySQL, H2).
 
