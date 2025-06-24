@@ -2,7 +2,7 @@
 
 🚀 Atualmente estou focado nos estudos da linguagem *Java, aprendendo sobre lógica de programação, orientação a objetos, estruturas de dados e construção de APIs com **Spring Boot*.
 
-💻 Também pratico com ferramentas como *Git, **GitHub, **Eclipse/IntelliJ* e banco de dados relacionais (MySQL, H2).
+💻 Também pratico com ferramentas como *Git, **GitHub, **Eclipse/IntelliJ* *VsCode* e banco de dados relacionais (MySQL, H2).
 
 📚 Estou em constante aprendizado e desenvolvendo projetos para reforçar meus conhecimentos e montar um portfólio sólido.
 
