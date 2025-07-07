@@ -10,7 +10,7 @@
 
 📌 Em breve vou publicar meus primeiros projetos por aqui. Fique à vontade para acompanhar minha evolução
  
- 📫 How to reach me e-mail cesarleitor2022@gmail.com ...
+ 📫 How to reach me e-mail cesar38dev@gmail.com ...
 
 <!---
 Cesarleitor/Cesarleitor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
