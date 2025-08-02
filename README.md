@@ -1,16 +1,12 @@
-👋 Olá! Sou um estudante de programação apaixonado por tecnologia e desenvolvimento de software.
+Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Estácio, com foco em desenvolvimento fullstack. Estou em busca sempre em de conhecimentos em programação e tecnologias modernas.
 
-🚀 Atualmente estou focado nos estudos da linguagem **Java,** aprendendo sobre lógica de programação, orientação a objetos, estruturas de dados e construção de APIs com **Spring Boot**.
+Tenho experiência de estudos com linguagens como Java, C e C++, além de fundamentos em algoritmos, estruturas de dados e programação orientada a objetos (POO), incluindo conceitos como encapsulamento, herança, polimorfismo e abstração.
 
-💻 Também pratico com ferramentas como **Git,** **GitHub,** **Eclipse/IntelliJ** **VsCode** e banco de dados relacionais **(MySQL, H2).**
+No universo Java, estudo de Lambdas, Stream API, tratamento de exceções e desenvolvimento de interfaces com JavaFX. Também possuo conhecimentos em bancos de dados relacionais (SQL) e não relacionais (NoSQL), e utilizo frameworks como JPA (Hibernate) e Spring Boot.
 
-📚 Estou em constante aprendizado e desenvolvendo projetos para reforçar meus conhecimentos e montar um portfólio sólido.
+Para o desenvolvimento web, tenho experiência com HTML e CSS. Além disso, Git e GitHub para controle de versão e colaboração em projetos.
 
-🧠 Interesses: **Back-end**, **Front-end** desenvolvimento web, APIs REST, boas práticas de código e clean code.
-
-📌 Em breve vou publicar meus primeiros projetos por aqui. Fique à vontade para acompanhar minha evolução
- 
- 📫 How to reach me e-mail para  cesar38dev@gmail.com ...
+Sou uma pessoa proativa, organizada e com facilidade para aprender, buscando sempre contribuir com trabalho em equipe e resultados de qualidade.
 
 <!---
 Cesarleitor/Cesarleitor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
