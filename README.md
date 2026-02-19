@@ -10,6 +10,7 @@ Sou estudante de **Ciência da Computação** na **Universidade Uninter**, com f
 - Java
 - JavaScript
 - SQL
+- Python
 
 ---
 
