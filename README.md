@@ -1,4 +1,4 @@
-# 👨‍💻 Augusto Cesar | Desenvolvedor Full Stack em Formação
+# 👨‍💻 Augusto Cesar | Desenvolvedor Back-End em Formação
 
 Sou estudante de **Ciência da Computação** na **Universidade Uninter**, com foco em **desenvolvimento Full Stack**. Estou em constante evolução técnica, buscando aplicar boas práticas de programação e aprender tecnologias modernas utilizadas no mercado.
 
