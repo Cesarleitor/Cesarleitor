@@ -1,6 +1,8 @@
-# 👨‍💻 Augusto Cesar | Desenvolvedor Back-End em Formação
+# 👨‍💻 Augusto Cesar | Desenvolvedor Full Stack em Formação
 
-Sou estudante de **Ciência da Computação** na **Universidade Uninter**, com foco em **desenvolvimento Full Stack**. Estou em constante evolução técnica, buscando aplicar boas práticas de programação e aprender tecnologias modernas utilizadas no mercado.
+Sou estudante de **Ciência da Computação** na **Universidade Uninter**, com foco em **desenvolvimento Full Stack (Back-End Java + Front-End React)**.
+
+Estou em constante evolução técnica, aplicando boas práticas de programação, arquitetura de software e desenvolvimento de sistemas reais voltados para o mercado.
 
 ---
 
@@ -14,16 +16,16 @@ Sou estudante de **Ciência da Computação** na **Universidade Uninter**, com f
 
 ---
 
-### ☕ Java & Backend
+### ☕ Java & Back-End
 - Programação Orientada a Objetos (POO)
   - Encapsulamento
   - Herança
   - Polimorfismo
   - Abstração
-- Algoritmos e Estruturas de Dados
-- Lambdas e Stream API
-- Tratamento de Exceções
-- Criação de APIs REST
+- Desenvolvimento de APIs REST
+- Estruturação de projetos profissionais
+- Tratamento de exceções
+- Boas práticas de código limpo
 
 ---
 
@@ -31,64 +33,73 @@ Sou estudante de **Ciência da Computação** na **Universidade Uninter**, com f
 - Spring Boot
 - Spring Web
 - Spring Data JPA
+- Spring Security (em aprendizado)
 - Injeção de Dependências
 - Arquitetura em Camadas (Controller, Service, Repository)
-- Boas práticas REST
+- Criação e consumo de APIs REST
 
 ---
 
-### 🗄️ Persistência de Dados
+### 🗄️ Banco de Dados
 - JPA / Hibernate (ORM)
 - JDBC
-- Bancos de Dados Relacionais (MySQL, PostgreSQL, H2)
-- Bancos de Dados Não Relacionais (NoSQL – fundamentos)
-- Modelagem de Dados
+- MySQL / PostgreSQL / H2
+- Modelagem de dados relacionais
 - Consultas SQL
+- NoSQL (conceitos básicos)
 
 ---
 
 ### 🌐 Desenvolvimento Web
 - HTML5
 - CSS3
-- JavaScript
-- Integração Frontend ↔ Backend via API REST
+- React (em evolução)
+- JavaScript (ES6+)
+- Consumo de API REST (fetch/axios)
+- Integração Frontend ↔ Backend
 
 ---
 
-### 🧪 Testes e Ferramentas
-- Postman (testes de endpoints e APIs)
-- Maven (gerenciamento de dependências)
-- Git e GitHub (versionamento e colaboração)
+### 🧪 Ferramentas & DevOps
+- Git e GitHub
+- Maven
+- Postman
 - VS Code / IntelliJ IDEA
+- Controle de versão e organização de projetos
 
 ---
 
 ## 🏗️ Conceitos Aplicados em Projetos
 
 - Arquitetura em Camadas
-- Separação de Responsabilidades
-- Boas práticas de código
-- Organização de projetos
+- Separação de responsabilidades
+- Desenvolvimento de sistemas full stack
+- Organização de projetos backend/frontend
+- Integração entre sistemas
 - Versionamento semântico
-- Documentação com README.md
+- Boas práticas de documentação
 
 ---
 
-## 📂 Projeto
+## 📂 Projetos
 
-Os repositórios deste GitHub incluem projetos voltados para:
+Atualmente desenvolvendo projetos práticos como:
 
-- APIs REST com Java e Spring Boot
+- 💈 Sistema de agendamento para barbearia (Full Stack)
+  - Backend em Spring Boot
+  - Frontend em React
+  - API REST integrada
+  - Sistema de agendamentos e gerenciamento
+
+- APIs REST para estudos e portfólio
 - CRUDs com persistência em banco de dados
-- Integração com bancos SQL e NoSQL
-- Aplicações para estudo e portfólio
-- Simulação de sistemas reais
+- Sistemas simulando aplicações reais de mercado
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Atuar como **Desenvolvedor Full Stack**, com maior foco inicial em **Back-end Java**, contribuindo para projetos reais, evoluindo tecnicamente e entregando soluções de qualidade em equipe.
+Atuar como **Desenvolvedor Full Stack**, com foco inicial em **Back-End Java**, contribuindo para projetos reais, escaláveis e bem estruturados, evoluindo constantemente para nível profissional no mercado de tecnologia.
 
 ---
 
@@ -99,10 +110,8 @@ Atuar como **Desenvolvedor Full Stack**, com maior foco inicial em **Back-end Ja
 
 ---
 
-⭐ Este GitHub é utilizado para estudo contínuo, prática e construção de portfólio profissional.
-
+⭐ Este perfil é utilizado para estudo contínuo, prática de desenvolvimento e construção de portfólio profissional.
 
 <!---
 Cesarleitor/Cesarleitor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
