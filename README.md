@@ -1,117 +1,121 @@
-# 👨‍💻 Augusto Cesar | Desenvolvedor Full Stack em Formação
+# 👨‍💻 Augusto Cesar | Software Development • AI & Machine Learning
 
-Sou estudante de **Ciência da Computação** na **Universidade Uninter**, com foco em **desenvolvimento Full Stack (Back-End Java + Front-End React)**.
+Estudante de **Ciência da Computação na Uninter** e de **Inteligência Artificial e Machine Learning na Uniasselvi**, direcionando minha formação para o desenvolvimento de software e a construção de soluções inteligentes.
 
-Estou em constante evolução técnica, aplicando boas práticas de programação, arquitetura de software e desenvolvimento de sistemas reais voltados para o mercado.
+Meu foco atual é aprofundar meus conhecimentos em **Inteligência Artificial, Machine Learning e Python**, compreendendo como os dados, os algoritmos e os modelos de aprendizado de máquina podem ser aplicados para resolver problemas reais.
+
+Paralelamente, desenvolvo minha base em engenharia de software, com estudos em Java, Spring Boot, React, APIs REST e bancos de dados, buscando unir desenvolvimento de sistemas e inteligência artificial na construção de aplicações cada vez mais úteis e eficientes.
+
+Meu objetivo é construir uma carreira na área de tecnologia, com foco profissional em **Inteligência Artificial e Machine Learning**, mantendo o desenvolvimento de software como uma das principais bases da minha formação.
 
 ---
 
-## 🧠 Conhecimentos Técnicos
+## 🎓 Formação Acadêmica
 
-### 💻 Linguagens de Programação
+- **Ciência da Computação — Uninter**
+  Graduação em andamento | Fundamentos de computação, algoritmos, programação, banco de dados e engenharia de software.
+
+- **Inteligência Artificial e Machine Learning — Uniasselvi**
+  Graduação em andamento | Foco de formação em inteligência artificial, aprendizado de máquina e aplicações inteligentes.
+
+---
+
+## 🎯 Foco Atual de Estudos
+
+- Inteligência Artificial e Machine Learning
+- Python aplicado à programação e à IA
+- Fundamentos matemáticos e estatísticos para aprendizado de máquina
+- Algoritmos de aprendizado supervisionado e não supervisionado
+- Análise e preparação de dados
+- Redes neurais e Deep Learning
+- Inteligência Artificial aplicada ao desenvolvimento de software
+- Inteligência Artificial aplicada a jogos
+- Desenvolvimento de aplicações com integração entre software, dados e IA
+
+---
+
+## 💻 Conhecimentos Técnicos
+
+### Linguagens de Programação
+
 - Java
+- Python
 - JavaScript
 - SQL
-- Python
 
----
+### Desenvolvimento Back-End
 
-### ☕ Java & Back-End
-- Programação Orientada a Objetos (POO)
-  - Encapsulamento
-  - Herança
-  - Polimorfismo
-  - Abstração
-- Desenvolvimento de APIs REST
-- Estruturação de projetos profissionais
-- Tratamento de exceções
-- Boas práticas de código limpo
+- Java e Programação Orientada a Objetos (POO)
+- Spring Boot e Spring Web
+- Desenvolvimento e consumo de APIs REST
+- Arquitetura em camadas
+- Spring Data JPA e Hibernate
+- Tratamento de exceções e organização de código
 
----
+### Desenvolvimento Front-End
 
-### 🌱 Spring Ecosystem
-- Spring Boot
-- Spring Web
-- Spring Data JPA
-- Spring Security (em aprendizado)
-- Injeção de Dependências
-- Arquitetura em Camadas (Controller, Service, Repository)
-- Criação e consumo de APIs REST
+- HTML5 e CSS3
+- JavaScript ES6+
+- React
+- Consumo de APIs e integração entre Front-End e Back-End
 
----
+### Banco de Dados
 
-### 🗄️ Banco de Dados
-- JPA / Hibernate (ORM)
-- JDBC
-- MySQL / PostgreSQL / H2
+- MySQL
+- PostgreSQL
+- H2
 - Modelagem de dados relacionais
-- Consultas SQL
-- NoSQL (conceitos básicos)
+- Consultas SQL e fundamentos de normalização
 
----
+### Ferramentas
 
-### 🌐 Desenvolvimento Web
-- HTML5
-- CSS3
-- React (em evolução)
-- JavaScript (ES6+)
-- Consumo de API REST (fetch/axios)
-- Integração Frontend ↔ Backend
-
----
-
-### 🧪 Ferramentas & DevOps
 - Git e GitHub
 - Maven
 - Postman
-- VS Code / IntelliJ IDEA
-- Controle de versão e organização de projetos
+- PyCharm
+- IntelliJ IDEA
+- VS Code
+- Linux Ubuntu
+
+### Inteligência Artificial e Dados
+
+- Fundamentos de Inteligência Artificial
+- Fundamentos de Machine Learning
+- Python para estudos e projetos de IA
+- Estudo de algoritmos, dados e modelos de aprendizado de máquina
+
+*Os conhecimentos e projetos são desenvolvidos de forma progressiva, conforme minha formação acadêmica e prática.*
 
 ---
 
-## 🏗️ Conceitos Aplicados em Projetos
+## 🚀 Projetos e Prática
 
-- Arquitetura em Camadas
-- Separação de responsabilidades
-- Desenvolvimento de sistemas full stack
-- Organização de projetos backend/frontend
-- Integração entre sistemas
-- Versionamento semântico
-- Boas práticas de documentação
+Utilizo projetos práticos para consolidar os conhecimentos adquiridos nos estudos e desenvolver habilidades de resolução de problemas.
 
----
+- **PetCare — Sistema Full Stack:** projeto com Java, Spring Boot, React e banco de dados.
+- **CesarNexuCode — Portfólio pessoal:** projeto voltado à apresentação de projetos, conhecimentos e evolução profissional.
+- **Devas Tantra — Desenvolvimento Web:** projeto com React, organização de componentes e desenvolvimento de interface responsiva.
+- **UninterCC — Estudos acadêmicos:** repositório de exercícios e atividades desenvolvidos durante a graduação em Ciência da Computação.
 
-## 📂 Projetos
-
-Atualmente desenvolvendo projetos práticos como:
-
-- 💈 Sistema de agendamento para barbearia (Full Stack)
-  - Backend em Spring Boot
-  - Frontend em React
-  - API REST integrada
-  - Sistema de agendamentos e gerenciamento
-
-- APIs REST para estudos e portfólio
-- CRUDs com persistência em banco de dados
-- Sistemas simulando aplicações reais de mercado
+A próxima etapa é ampliar meus projetos com Python, análise de dados e aplicações práticas de Inteligência Artificial e Machine Learning.
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Atuar como **Desenvolvedor Full Stack**, com foco inicial em **Back-End Java**, contribuindo para projetos reais, escaláveis e bem estruturados, evoluindo constantemente para nível profissional no mercado de tecnologia.
+Construir minha carreira em **Inteligência Artificial e Machine Learning**, desenvolvendo soluções que combinem programação, dados, algoritmos e modelos inteligentes.
+
+Busco oportunidades de Júnior/Pleno e posições de entrada em tecnologia que me permitam aprender com equipes experientes, participar de projetos reais e transformar conhecimento acadêmico em experiência prática.
+
+Tenho interesse especial em aplicações de IA para desenvolvimento de software e jogos, sem deixar de fortalecer minha base em engenharia de software, desenvolvimento Back-End e construção de APIs.
 
 ---
 
 ## 📫 Contato
 
-- GitHub: https://github.com/Cesarleitor
-- LinkedIn: https://www.linkedin.com/in/dev-cesar198738/
+- **GitHub:** [https://github.com/Cesarleitor](https://github.com/Cesarleitor)
+- **LinkedIn:** [https://www.linkedin.com/in/dev-cesar198738/](https://www.linkedin.com/in/dev-cesar198738/)
 
 ---
 
-⭐ Este perfil é utilizado para estudo contínuo, prática de desenvolvimento e construção de portfólio profissional.
-
-<!---
-Cesarleitor/Cesarleitor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+⭐ Este perfil reúne meus estudos, projetos e evolução acadêmica e profissional em Desenvolvimento de Software, Inteligência Artificial e Machine Learning.
